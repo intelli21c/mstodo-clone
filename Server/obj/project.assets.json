@@ -1266,24 +1266,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Jun Young Lee\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\JYLEE\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jun Young Lee\\Sources\\mstodo-clone\\Server\\mstodo-clone.Server.csproj",
+      "projectUniqueName": "C:\\Users\\JYLEE\\Sources\\mstodo-clone\\Server\\mstodo-clone.Server.csproj",
       "projectName": "mstodo-clone.Server",
-      "projectPath": "C:\\Users\\Jun Young Lee\\Sources\\mstodo-clone\\Server\\mstodo-clone.Server.csproj",
-      "packagesPath": "C:\\Users\\Jun Young Lee\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jun Young Lee\\Sources\\mstodo-clone\\Server\\obj\\",
+      "projectPath": "C:\\Users\\JYLEE\\Sources\\mstodo-clone\\Server\\mstodo-clone.Server.csproj",
+      "packagesPath": "C:\\Users\\JYLEE\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\JYLEE\\Sources\\mstodo-clone\\Server\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Jun Young Lee\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\JYLEE\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1291,18 +1286,17 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\Jun Young Lee\\Sources\\mstodo-clone\\Client\\mstodo-clone.Client.csproj": {
-              "projectPath": "C:\\Users\\Jun Young Lee\\Sources\\mstodo-clone\\Client\\mstodo-clone.Client.csproj"
+            "C:\\Users\\JYLEE\\Sources\\mstodo-clone\\Client\\mstodo-clone.Client.csproj": {
+              "projectPath": "C:\\Users\\JYLEE\\Sources\\mstodo-clone\\Client\\mstodo-clone.Client.csproj"
             },
-            "C:\\Users\\Jun Young Lee\\Sources\\mstodo-clone\\Shared\\mstodo-clone.Shared.csproj": {
-              "projectPath": "C:\\Users\\Jun Young Lee\\Sources\\mstodo-clone\\Shared\\mstodo-clone.Shared.csproj"
+            "C:\\Users\\JYLEE\\Sources\\mstodo-clone\\Shared\\mstodo-clone.Shared.csproj": {
+              "projectPath": "C:\\Users\\JYLEE\\Sources\\mstodo-clone\\Shared\\mstodo-clone.Shared.csproj"
             }
           }
         }

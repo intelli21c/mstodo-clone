@@ -9,29 +9,37 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = browser
 build_property.RootNamespace = mstodo-clone.Client
 build_property.RootNamespace = mstodo-clone.Client
-build_property.ProjectDir = C:\Users\Jun Young Lee\Sources\mstodo-clone\Client\
+build_property.ProjectDir = C:\Users\JYLEE\Sources\mstodo-clone\Client\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Jun Young Lee\Sources\mstodo-clone\Client
+build_property.MSBuildProjectDirectory = C:\Users\JYLEE\Sources\mstodo-clone\Client
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Jun Young Lee/Sources/mstodo-clone/Client/App.razor]
+[C:/Users/JYLEE/Sources/mstodo-clone/Client/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Jun Young Lee/Sources/mstodo-clone/Client/Pages/Index.razor]
+[C:/Users/JYLEE/Sources/mstodo-clone/Client/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Jun Young Lee/Sources/mstodo-clone/Client/_Imports.razor]
+[C:/Users/JYLEE/Sources/mstodo-clone/Client/Pages/Today.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVG9kYXkucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JYLEE/Sources/mstodo-clone/Client/Shared/ToDoListView.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFRvRG9MaXN0Vmlldy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JYLEE/Sources/mstodo-clone/Client/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Jun Young Lee/Sources/mstodo-clone/Client/Shared/MainLayout.razor]
+[C:/Users/JYLEE/Sources/mstodo-clone/Client/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-8t540qf9zy
 
-[C:/Users/Jun Young Lee/Sources/mstodo-clone/Client/Shared/NavMenu.razor]
+[C:/Users/JYLEE/Sources/mstodo-clone/Client/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-c2jb0r3eep
