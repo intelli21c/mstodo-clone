@@ -199,14 +199,14 @@
       "netstandard.dll": "sha256-+jUzj0FB0YcoBUeSkSNEjhVDTG08qbZ2twfCBMbzT+Q=",
       "System.Private.CoreLib.dll": "sha256-l+\/quNqfNCSUDSMJcp0+IxlSdOdnAtwVVWMXmYGHMpg=",
       "mstodo-clone.Shared.dll": "sha256-YO1g2Io7V0IfVlmda1KagR\/LKMYLUBvbBs0h7PDnzX0=",
-      "mstodo-clone.Client.dll": "sha256-L5qN40w\/uhzJ\/EWEpjCIdG5ncONxuh3FepHbTyHG38g="
+      "mstodo-clone.Client.dll": "sha256-ju3NU85Vkcj3jBAPdnIefi6R9Ef4eoGpH1CyiNdsKnE="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
       "mstodo-clone.Shared.pdb": "sha256-bkZonQ3R6MiYsz6wC2bfOW2\/6YqWr7tqHqx3XAvwtV8=",
-      "mstodo-clone.Client.pdb": "sha256-usYJrjRPg20sYfsuh9\/I21j1zHze+Xq837aUqiLCnuk="
+      "mstodo-clone.Client.pdb": "sha256-gqAGkHaN8q035v1nya8l0vTJIuyQJNNr4lQqQR6qTO0="
     },
     "runtime": {
       "dotnet.7.0.1.a0wws33kgt.js": "sha256-jjax3FMRXzFAziWowdtJf6vipP2xXAaA5gD6VBYB6Y0=",
