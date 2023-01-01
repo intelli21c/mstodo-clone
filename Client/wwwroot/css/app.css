@@ -1,34 +1,35 @@
-@import url('open-iconic/font/css/open-iconic-bootstrap.min.css');
-
 html, body {
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    min-height: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    border: 0;
 }
 
-h1:focus {
-    outline: none;
+ul {
+    list-style-type: none;
 }
 
-a, .btn-link {
-    color: #0071c1;
+#msapps {
+    width: 40px;
 }
 
-.btn-primary {
-    color: #fff;
-    background-color: #1b6ec2;
-    border-color: #1861ac;
+#topbar {
+    background-color: blue;
+    color: white;
+    height:70px;
 }
 
-.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
-  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
-}
+    #topbar ul {
+        height: 50px;
+        margin: 0px;
+        padding: 0px;
+        border: 0px;
+        display: flex;
+        align-items: center;
+    }
 
-.content {
-    padding-top: 1.1rem;
-}
-
-.valid.modified:not([type=checkbox]) {
-    outline: 1px solid #26b050;
-}
 
 .invalid {
     outline: 1px solid red;

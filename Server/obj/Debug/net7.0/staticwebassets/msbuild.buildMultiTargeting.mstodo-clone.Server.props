@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\mstodo-clone.Server.props" />
+</Project>
